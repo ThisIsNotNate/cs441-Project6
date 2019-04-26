@@ -1,4 +1,5 @@
 
+
 <?php
 
 $dbname = "gmilouc1_initiative";
@@ -29,5 +30,3 @@ while ($row = mysqli_fetch_array($result, MYSQLI_ASSOC))
 
 
 ?>
-
-
